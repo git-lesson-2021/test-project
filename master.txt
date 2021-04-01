@@ -1,2 +1,3 @@
 Hello world!
 I am a inter tester Igor Borisikhin
+I am a learning Git
